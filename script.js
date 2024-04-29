@@ -8,7 +8,7 @@ sr.reveal('.area-2',{
 })
 sr.reveal('.area-3',{
     duration: 2000,
-    rotate:{x: 100, y:100, z:0}
+    rotate:{x: 0, y:100, z:0}
 })
 
 sr.reveal('.module',{duration: 1000})
