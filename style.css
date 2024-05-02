@@ -92,6 +92,7 @@ section.module.parallax{
   flex-direction: colum;
   justify-content: center;
   height: 100vh !important;
+  text-align: center;
   width: 100%;
   position: relative;
   overflow: hidden;
